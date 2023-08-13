@@ -19,3 +19,12 @@ Started trying out different things with trigonometry concepts. Eventually got a
 <img src="https://github.com/Pfalcao97/learning-p5js/blob/main/trigonometry/trigonometry.png" align="center" height="400" width="400" >
 </p>
 
+## Third project (13/08/23) - Sunburst
+
+Here I wanted to play a bit with noise, using the random function and tiny squares of many colors and try to make an animation. I think it actually turned out quite pleasant.
+
+
+<p align="center">
+<img src="https://github.com/Pfalcao97/learning-p5js/blob/main/sunburst/mySketch.gif" align="center" height="400" width="400" >
+</p>
+
